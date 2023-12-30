@@ -9,3 +9,7 @@ Replace YourMigrationName with a meaningful name for your migration. This comman
 This command applies the pending migrations to the database, creating or updating the tables based on your model.
 
 Ensure that your Package Manager Console is set to the correct default project, which should be your project containing the DbContext.
+
+Please refer the below attached files for further refernce
+[API_EndPoints_Details.xlsx](https://github.com/anusiyap24/ECommerceAPI/files/13798824/API_EndPoints_Details.xlsx)
+[Output Document.docx](https://github.com/anusiyap24/ECommerceAPI/files/13798826/Output.Document.docx)
